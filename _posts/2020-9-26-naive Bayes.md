@@ -11,7 +11,7 @@ comments: false
 # project: true
 ---
 
-$$ \frac{P(B_i|A)=P(A|B_i)P(B_i)}{\sum_{j=1}^nP(A|B_i)P(B_i)},i=1,2,3,...,n. $$
+$$\frac{P(B_i|A)=P(A|B_i)P(B_i)}{\sum_{j=1}^nP(A|B_i)P(B_i)},i=1,2,3,...,n.$$
 
 :memo: 该篇内容还未完成
 
