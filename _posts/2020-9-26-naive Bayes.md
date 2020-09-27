@@ -3,7 +3,7 @@
 title: 朴素贝叶斯
 categories: [强调, 数据分析]
 tags: [Python,算法,未完成]
-# excerpt: 简介朴素贝叶斯算法原理
+excerpt: 简介朴素贝叶斯算法原理.
 date: 2020-09-26
 lastmod: 2020-09-26
 math: true
@@ -12,9 +12,6 @@ comments: false
 ---
 
 *该篇内容还未完成*，由于MathJax的原因，请转到[博客园](https://www.cnblogs.com/Kseven77/p/13735920.html).见谅！ 
-
-
-<!-- more -->
 
 本文所阐述的定义，若无特殊表明出处则皆源自于《概率论与数理统计（第四版）》
 # 回顾
