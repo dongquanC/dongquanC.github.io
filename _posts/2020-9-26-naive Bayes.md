@@ -2,12 +2,13 @@
 # layout: page
 title: 朴素贝叶斯
 categories: [强调, 数据分析]
-tags: [Python,算法,未完成]
+tags: [python,算法,未完成]
 excerpt: 简介朴素贝叶斯算法原理.
 date: 2020-09-26
 lastmod: 2020-09-26
 math: true
 comments: false
+image: https://i.loli.net/2020/07/11/9ZngD1ErhisXp78.jpg
 # project: true
 ---
 

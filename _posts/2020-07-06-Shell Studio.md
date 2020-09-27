@@ -2,7 +2,7 @@
 # layout: page
 title: C# unity 日记本
 categories: [强调, 代码语言]
-tags: [Shell Studio, C#, Unity]
+tags: [shell studio, c#, unity]
 excerpt: C# 学习历程记录.
 date: 2020-07-06
 comments: false
