@@ -2,7 +2,7 @@
 # layout: page
 title: 朴素贝叶斯
 categories: [强调, 数据分析]
-tags: [Python,算法，未完成]
+tags: [Python,算法,未完成]
 # excerpt: 简介朴素贝叶斯算法原理
 date: 2020-09-26
 lastmod: 2020-09-26
@@ -11,9 +11,7 @@ comments: false
 # project: true
 ---
 
-$$\frac{P(B_i|A)=P(A|B_i)P(B_i)}{\sum_{j=1}^nP(A|B_i)P(B_i)},i=1,2,3,...,n.$$
-
-:memo: 该篇内容还未完成
+*该篇内容还未完成* 由于MathJax的原因，请转到[博客园](https://www.cnblogs.com/Kseven77/p/13735920.html).见谅！ 
 
 本文所阐述的定义，若无特殊表明出处则皆源自于《概率论与数理统计（第四版）》
 # 回顾

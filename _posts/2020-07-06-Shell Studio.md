@@ -9,6 +9,8 @@ comments: false
 # project: true
 ---
 
+C# 学习历程记录.  
+
 # 日常
 
 ## 2020-07-06

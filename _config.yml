@@ -25,15 +25,15 @@ avatar: https://i.loli.net/2020/07/05/sYri5Rz1AMJkTcF.jpg   # support internet r
 github:
   username: dongquanC             # change to your github username
 
-# twitter:
-#   username: twitter_username            # change to your twitter username
+twitter:
+  username: original04            # change to your twitter username
 
 social:
   name:  dongquanc              # it will shows as the copyright owner in Footer
   email: dongquanc0418@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/original04      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
