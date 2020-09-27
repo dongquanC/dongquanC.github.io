@@ -8,7 +8,6 @@ date: 2020-09-26
 lastmod: 2020-09-26
 math: true
 comments: false
-excerpt_separator:  '<!-- more -->'
 # project: true
 ---
 

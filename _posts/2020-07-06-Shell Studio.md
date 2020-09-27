@@ -6,7 +6,6 @@ tags: [Shell Studio, C#, Unity]
 # excerpt: C# UNITY edit record for Shell Studio
 date: 2020-07-06
 comments: false
-excerpt_separator:  '<!-- more -->'
 # project: true
 ---
 
