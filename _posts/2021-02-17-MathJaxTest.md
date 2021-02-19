@@ -11,7 +11,7 @@ comments: false
 ---
 
 # 测试
-$$ p(AB)=p(B|A)P(A). $$
+$$ p(AB)=p(B|A)P(A) $$
 
 
-$ p(AB)=p(B|A)P(A) $
+/(p(AB)=p(B|A)P(A))/
