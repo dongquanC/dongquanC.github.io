@@ -1,7 +1,7 @@
 ---
 layout: post
 title: scrapy + selenium 使用手法
-categories: [程序设计]
+categories: [程序语言]
 tags: [python, 爬虫]
 date: 2020-02-04
 comments: false
