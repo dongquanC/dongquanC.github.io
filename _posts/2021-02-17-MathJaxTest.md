@@ -6,7 +6,6 @@ tags: [python]
 excerpt: MathJax test.
 date: 2021-02-17
 lastmod: 2021-02-19
-math: true
 comments: false
 ---
 
@@ -14,5 +13,6 @@ comments: false
 $$ p(AB)=p(B|A)P(A) $$
 
 
-/(p(AB)=p(B|A)P(A))/
+$ p(AB)=p(B|A)P(A) $
+
 444444
