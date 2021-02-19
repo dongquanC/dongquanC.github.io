@@ -1,12 +1,11 @@
 ---
-# layout: page
+layout: post
 title: C# unity 日记本
-categories: [强调, 代码语言]
-tags: [shell studio, c#, unity]
+categories: [程序语言]
+tags: [c#]
 excerpt: C# 学习历程记录.
 date: 2020-07-06
 comments: false
-# project: true
 ---
 
 
