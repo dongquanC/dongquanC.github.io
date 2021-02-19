@@ -1,5 +1,5 @@
 ---
-# layout: page
+layout: post
 title: 朴素贝叶斯
 categories: [强调, 数据分析]
 tags: [python,算法,未完成]
