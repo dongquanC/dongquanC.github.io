@@ -11,9 +11,13 @@ comments: false
 ---
 
 # 测试
-
+ddddddd
 44444444444444
-$$ p(AB)=p(B|A)P(A) $$
+
+$$
+p(AB)=p(B|A)P(A)
+$$
+
 
 
 $ p(AB)=p(B|A)P(A) $
